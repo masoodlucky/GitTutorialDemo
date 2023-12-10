@@ -1,2 +1,4 @@
 this is version of my codei want to 
 i want to commit this as version 2
+this is now ingnored file
+
